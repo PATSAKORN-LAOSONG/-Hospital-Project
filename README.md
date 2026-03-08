@@ -82,3 +82,6 @@
 
 [ บันทึกข้อมูล ]
 ```
+
+# ตัวอย่างการทำใน Figma
+- [ลิ้ง](https://www.figma.com/proto/WOC5DTPlHUMfKhCVar558I/Untitled?node-id=12-93&t=QlKZ4UMyQmoeHvbX-1)
