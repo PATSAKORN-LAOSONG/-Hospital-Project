@@ -84,4 +84,4 @@
 ```
 
 # ตัวอย่างใน Figma
-- [ลิ้ง](https://www.figma.com/proto/WOC5DTPlHUMfKhCVar558I/Untitled?node-id=12-93&t=QlKZ4UMyQmoeHvbX-1)
+- [ลิ้ง](https://www.figma.com/make/WTbFeFNyUwjvy1mgpTaNfy/Patient-Follow-up-Dashboard-Design?t=sLyBaGQGabkmCGWn-1)
